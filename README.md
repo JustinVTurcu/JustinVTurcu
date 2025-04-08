@@ -1,4 +1,4 @@
-## Hi, I'm Justin 😎 [LinkedIn](https://www.linkedin.com/in/justin-turcu/)
+## Hi, I'm Justin 😎
 
 🧠🫆 Started as a Computer Science student, finished as a Cybersecurity & Computer Forensics Bachelor at Kingston University, UK.<br/>
 🫀 Love creating beautiful, useful and powerful end-to-end software.<br/>
